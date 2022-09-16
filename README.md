@@ -5,6 +5,8 @@ My name is Maurilo, I'm a web developer student from Brazil, passionate about pr
   <img align="center" alt="Mau-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mau-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Mau-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 </div><br>
 
 ⛵ I worked and studied at Escola Naval, a Brazilian Navy Academy. I sailed a lot around Brazil and really enjoyed life at sea, but my passion and enthusiasm for technology and programming made me follow this journey of being a Software Engineer.
