@@ -1,4 +1,4 @@
-<div align="center"><h2> Maurilo Santos, but you can call me Mau!</h2></div>
+<div align="center"><h2> Welcome 😁</h2></div>
 My name is Maurilo, I'm a web developer student from Brazil, passionate about programming, technology, music, business, design, sailing and coffee! ☕😜
 <div style="display: inline_block"><br>
   <img align="center" alt="Mau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
