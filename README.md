@@ -9,11 +9,23 @@ My name is Maurilo, I'm a web developer student from Brazil, passionate about pr
   <img align="center" alt="Mau-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 </div><br>
 
-⛵ I worked and studied at Escola Naval, a Brazilian Navy Academy. I sailed a lot around Brazil and really enjoyed life at sea, but my passion and enthusiasm for technology and programming made me follow this journey of being a Software Engineer.
-<br>😎 Today I share my projects as a student and I grow more and more in knowledge.<br>
-🤩 I love making friends so chat with me!
+⛵ I worked and studied at Escola Naval, a Brazilian Navy Academy, but my passion and enthusiasm for technology and programming made me follow this journey of being a Software Engineer.
+<br>👾 Today I share my projects as a student and I grow more and more in knowledge.<br>
+🥳 I love making friends so chat with me!
 
  <a href = "mailto:maurilosantoss1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maurilosantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/maurilosantos/count.svg" /> Views here</p>
 
+<details>
+ <summary>:zap: <b>GitHub Stats</b></summary>
+<a  href="https://github.com/maurilosantos">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=maurilosantos&theme=buefy&show_icons=true">
+</a>
+</details>
+
+<details>
+ <summary>:zap: <b>Most Used Languages</b></summary>
+<a  href="https://github.com/maurilosantos">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurilosantos&theme=buefy&layout=compact">
+</a>
+</details>
