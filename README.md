@@ -1,4 +1,10 @@
 <div align="center"><h2> Welcome 😁</h2></div>
+<div align="center" >
+
+![about maurilo](https://github.com/maurilosantos/maurilosantos/blob/main/gif%20mario.gif?raw=true)
+
+</div>
+
 My name is Maurilo, I'm a Full Stack Development student at Generation from Brazil, passionate about programming, technology, music, business, design, sailing and coffee! ☕😜
 <div style="display: inline_block"><br>
   <img align="center" alt="Mau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
