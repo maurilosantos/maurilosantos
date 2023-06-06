@@ -5,7 +5,7 @@
 </div><br>
 
 
-My name is Maurilo, I'm a Full Stack Development student at Generation from Brazil, passionate about programming, technology, music, business, design, sailing and coffee! ☕😜
+My name is Maurilo, I'm a Java Developer, passionate about programming, technology, music, business, design, sailing and coffee! ☕😜
 <div align="center"><br>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
